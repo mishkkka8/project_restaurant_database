@@ -7,7 +7,7 @@
 
 ## Зміст
 
-*[База даних для ресторану.docx](база%20даних%20ресторан.docx) 
+*[База даних для ресторану.docx](https://github.com/mishkkka8/project_restaurant_database)
 ## Автор
 Бахмутченко Єгор 
 egorbakhmut@gmail.com
